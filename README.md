@@ -1,6 +1,6 @@
 # flutter_app
 
-A new Flutter application.
+Login UI using flutter
 
 ## Getting Started
 
